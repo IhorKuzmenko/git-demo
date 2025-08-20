@@ -21,6 +21,7 @@ Gotta leave you all behind and face the truth
 Mama, ooh (any way the wind blows)
 I don't wanna die
 I sometimes wish I'd never been born at all
+<<<<<<< HEAD
 
 I see a little silhouetto of a man
 Scaramouche, Scaramouche, will you do the Fandango?
@@ -29,3 +30,5 @@ Thunderbolt and lightning, very, very frightening me
 But I'm just a poor boy, nobody loves me
 He's just a poor boy from a poor family
 Spare him his life from this monstrosity
+=======
+>>>>>>> 029ddbc4781e6c3a2178b61207f16b9f122f5ca1
